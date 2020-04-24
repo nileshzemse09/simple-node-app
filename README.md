@@ -10,7 +10,7 @@ Instead of cloning big code, downloading many node packages, you can test node-w
 This repository can also help beginners to know how node application runs on web-browser.
 
 Here are the commands to run the application :
-
+```linux
  git clone https://github.com/nileshzemse09/simple-node-app.git 
  
  cd simple-node-app
@@ -18,7 +18,7 @@ Here are the commands to run the application :
  npm install
  
  node index.js
- 
+``` 
 
 and run the following url in your fevorite browser
 http://localhost:3000
