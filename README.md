@@ -12,9 +12,13 @@ This repository can also help beginners to know how node application runs on web
 Here are the commands to run the application :
 
  git clone https://github.com/nileshzemse09/simple-node-app.git 
+ 
  cd simple-node-app
+ 
  npm install
+ 
  node index.js
+ 
 
 and run the following url in your fevorite browser
 http://localhost:3000
